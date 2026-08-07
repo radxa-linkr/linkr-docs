@@ -1,7 +1,5 @@
 ---
-id: firmware-update
-sidebar_position: 3
-title: 固件更新
+sidebar_position: 10
 ---
 
 # 固件更新
