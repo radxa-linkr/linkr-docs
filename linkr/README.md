@@ -56,10 +56,10 @@ sidebar_position: 2
 
 - 瑞莎灵控
 - 快速入门指南
-- USB-A 转 USB-C 数据线
-- USB-C 转 USB-C 数据线
-- USB-C 供电 / 数据拆分线
-- USB-C 转 RJ45 数据线
+- USB-A 转 USB-C 数据线（25 cm）
+- USB-C 转 USB-C 数据线（100 cm）
+- USB-C 供电 / 数据拆分线（10 cm）
+- USB-C 转 RJ45 数据线（100 cm）
 - 零售包装盒
 
 ## 应用场景
