@@ -363,6 +363,8 @@ sidebar_position: 3
 
 开始或停止录制远程画面，并支持预览和下载录制文件。
 
+如需通过 OBS 的浏览器源捕获灵控视频，请参见 [使用 OBS 捕获 Linkr 视频](./advanced-usage/obs-capture.md)。
+
 - 鼠标控制
 
 快速启用或关闭鼠标输入，并可控制本地鼠标指针的显示。
