@@ -18,7 +18,7 @@ Linkrd 可以在控制端电脑与被控电脑之间双向同步纯文本剪贴�
 
 ## 前置条件
 
-- 灵控固件支持 Linkrd，并准备好对应的 `.apk` 插件包。
+- 灵控固件支持 Linkrd，并已按 [下载插件](./README.md#下载插件) 步骤获取 Linkrd 的 `.apk` 插件包。
 - 灵控的 **USB-C 设备接口**已通过数据线连接被控电脑，连接方式参见[硬件接口](../getting-started/hardware-interface.md)。
 - 被控电脑运行 Windows x64，或 Linux x64 / ARM64 的 X11、Wayland 桌面会话。
 - 控制端使用支持剪贴板读写的浏览器，通过 **HTTPS** 访问灵控，并允许该站点访问剪贴板。
